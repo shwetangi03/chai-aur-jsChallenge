@@ -43,3 +43,8 @@ console.log(result);
 
 // task-13
 console.log(a != b);
+
+//tast-14
+let num =10
+let rese = num>0?"positive":"negative"
+console.log(rese);
